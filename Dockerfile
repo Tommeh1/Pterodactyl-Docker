@@ -1,4 +1,4 @@
-FROM        openjdk:16-slim
+FROM        openjdk:20-slim
 
 LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
 
